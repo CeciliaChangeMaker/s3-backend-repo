@@ -1,6 +1,6 @@
 module.exports = {
     branches: "main",
-    repositoryUrl: "https://github.com/t32-g23/s3-backend.git",
+    repositoryUrl: "https://github.com/CeciliaChangeMaker/s3-backend-repo.git",
     plugins: [
       '@semantic-release/commit-analyzer',
       '@semantic-release/release-notes-generator',
